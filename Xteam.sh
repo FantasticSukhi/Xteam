@@ -21,21 +21,21 @@ echo -e "$Green Created By \e[1;34m"
 sleep 2.0
 
     echo " "
-    echo -e "$Red                               ⫸ Coded by$Yellow xploitstech$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸ Coded by$Yellow FantasticSukhi$Red ⫷\033[0m"
     echo -e "$Red                               ⫸$Red www.cynone.com$Red ⫷\033[0m"
 echo " "
-echo -e " $Red       ||----------------------------$Cyan [features] $Blue ---------------------------||"
-echo -e " $Red       ||                                                                    ||"
+echo -e " $Red       ||----------------------------$Cyan [features] $Blue -------------------------------------||"
+echo -e " $Red       ||                                                                                        ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[1️⃣] Insta information gathering$Blue                     ||"
 echo -e " $Red       ||             $Purple%=>️$Yellow[2️⃣] Crack android lockscreen interfaces$Blue             ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[3️⃣] Phishing hacks$Blue                                  ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[4️⃣] Wireless Attacks$Blue                                ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Android Virus link$Blue                                    ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Android Virus link$Blue                              ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[6️⃣] Update Xteam$Blue                                    ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About Cynone.com$Blue                                           ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About Cynone.com$Blue                                ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[8️⃣] exit$Blue                                            ||"
-echo -e " $Red       ||                                                                    ||"                                                                                       
-echo -e " $Red       ||---------------------------$Cyan [select option] $Blue -----------------------||"
+echo -e " $Red       ||                                                                                        ||"                                                                                       
+echo -e " $Red       ||---------------------------$Cyan [select option] $Blue ---------------------------------||"
 echo -e " $Blue      |---------------------------------------------------------------------|"
 echo " "
 echo " "
@@ -82,7 +82,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Xteam
-        git clone https://github.com/xploitstech/Xteam
+        git clone https://github.com/FantasticSukhi/Xteam
         cd Xteam
         bash Xteam.sh   
         
