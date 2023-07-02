@@ -1,10 +1,3 @@
-## Xteam tool
-<br>
-<p align="center">
-## Screenshot:
-<br>
-<p align="center">
-<img width="95%" src="https://github.com/FantasticSukhi/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
 ## Features:
 - Insta information gathering
 - Crack android lockscreen interfaces
